@@ -1,13 +1,14 @@
 require_relative "boot"
 
 require "rails/all"
-
+require_relative "../app/middleware/rate_limiter"
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
 module RateLimiter
   class Application < Rails::Application
+    config.middleware.use RateLimiterMiddleware
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 8.1
 
