@@ -57,4 +57,5 @@ build-iPhoneSimulator/
 
 # Ignore key files for decrypting credentials and more.
 /config/*.key
-
+/log/development.log
+dump.rdb
