@@ -15,3 +15,55 @@ Completed 200 OK in 11ms (Views: 3.0ms | ActiveRecord: 0.0ms (0 queries, 0 cache
 
 Started GET "/" for ::1 at 2026-03-28 13:09:01 -0400
 Started GET "/favicon.ico" for ::1 at 2026-03-28 13:09:01 -0400
+Started GET "/" for ::1 at 2026-03-28 13:13:48 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:51 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:52 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:53 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:54 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:54 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:55 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:56 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:57 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:57 -0400
+Processing by ApiController#index as */*
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2026-03-28 13:13:58 -0400
+Started GET "/" for ::1 at 2026-03-28 13:14:00 -0400
