@@ -1,6 +1,8 @@
 require_relative "boot"
 
-require "rails/all"
+require "rails"
+require "action_controller/railtie"
+require "action_dispatch/railtie"
 require_relative "../app/middleware/rate_limiter"
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
